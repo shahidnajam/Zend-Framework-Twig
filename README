@@ -1,0 +1,5 @@
+Zend Framework and Twig template engine integration
+===================================================
+This is an example project with Twig integrated on the Zend Framework Application context, so
+you can use Twig instead of plain PHP on our views, thanks to the template agoncism of the 
+Zend_View component.
